@@ -1,0 +1,174 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/premium_photo_1.jpg"
+      },
+      "image": "src/assets/waterfall1.webp",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sarah_travels",
+        "profile_pic": "src/assets/sara.webp"
+      },
+      "image": "src/assets/mountain_hike.webp",
+      "caption": "Conquered the peak today 🏔️✨",
+      "likes": 245,
+      "comments": [
+        {
+          "user": "adventure_guy",
+          "comment": "Respect! That’s a tough climb."
+        },
+        {
+          "user": "nature_lover",
+          "comment": "Scenery looks breathtaking!"
+        }
+      ],
+      "timestamp": "2025-03-05T09:15:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "foodie_love",
+        "profile_pic": "src/assets/foodie.webp"
+      },
+      "image": "src/assets/italian_pasta.webp",
+      "caption": "Best pasta I’ve ever had 🍝❤️",
+      "likes": 310,
+      "comments": [
+        {
+          "user": "chef_master",
+          "comment": "Looks delicious!"
+        },
+        {
+          "user": "travel_eater",
+          "comment": "Where is this restaurant?"
+        }
+      ],
+      "timestamp": "2025-04-10T18:45:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "fitness_freak",
+        "profile_pic": "src/assets/fitness.webp"
+      },
+      "image": "src/assets/good-morning-exercise.jpg",
+      "caption": "Morning workout grind 💪🔥 #NoExcuses",
+      "likes": 198,
+      "comments": [
+        {
+          "user": "runner_girl",
+          "comment": "Motivation level 💯"
+        }
+      ],
+      "timestamp": "2025-05-02T06:30:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "johnny",
+    "profile_pic": "src/assets/story1.jpg"
+  },
+  "suggesstions": [
+    {
+      "id": "101",
+      "username": "john_doe",
+      "profile_pic": "src/assets/premium_photo_1.jpg"
+    },
+    {
+      "id": "102",
+      "username": "sarah_travels",
+      "profile_pic": "src/assets/sara.webp"
+    },
+    {
+      "id": "103",
+      "username": "foodie_love",
+      "profile_pic": "src/assets/foodie.webp"
+    },
+    {
+      "id": "104",
+      "username": "fitness_freak",
+      "profile_pic": "src/assets/fitness.webp"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/premium_photo_1.jpg"
+      },
+      "image": "/src/assets/story1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sarah_travels",
+        "profile_pic": "src/assets/sara.webp"
+      },
+      "image": "/src/assets/story2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "foodie_love",
+        "profile_pic": "src/assets/foodie.webp"
+      },
+      "image": "/src/assets/story3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "fitness_freak",
+        "profile_pic": "src/assets/fitness.webp"
+      },
+      "image": "/src/assets/story4.webp"
+    }
+  ],
+  "followers": [
+    {
+      "id": "104",
+      "username": "fitness_freak",
+      "profile_pic": "src/assets/fitness.webp"
+    },
+    {
+      "id": "103",
+      "username": "foodie_love",
+      "profile_pic": "src/assets/foodie.webp"
+    },
+    {
+      "id": "102",
+      "username": "sarah_travels",
+      "profile_pic": "src/assets/sara.webp"
+    },
+    {
+      "id": "C6NFjLIPQyI",
+      "username": "john_doe"
+    }
+  ]
+}

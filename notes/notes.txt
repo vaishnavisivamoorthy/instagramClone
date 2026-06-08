@@ -1,0 +1,1 @@
+json-server --watch dbs/dbs.json --port 3000
